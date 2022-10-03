@@ -1,2 +1,2 @@
-# payroll-management-system
-Uses SQL to manage payroll for a company's employees.
+# Employee-Payroll-Management-System
+Advanced Database Management System
