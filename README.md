@@ -1,5 +1,6 @@
 # Employee-Payroll-Management-System
 Advanced Database Management System
+
 Key points:
 - SQL database that is used to streamline the salary system for companies
 - Built an E-R diagram to know how 9 entities are related in the payroll management system for any company
